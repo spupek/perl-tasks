@@ -1,0 +1,4 @@
+1. Írjon programot, ami megmondja, hogy 1..1000 között melyik római szám leírásához kell a legtöbb vonal. (Függőségmentes megoldás előnyben.)
+2. Írjon programot, ami letölt egy html-t és kiszedi belőle az <a> tagek href-jeit. A relatív linkekből csináljon abszolútot. (use LWP, URI, mást ne nagyon useoljon)
+3. Írjon programot, ami egy adott könyvtárban (rekurzívan) megkeresi a legnagyobb file-t. (use File::Find)
+4. Írjon programot, ami ascii art labirintust generál.

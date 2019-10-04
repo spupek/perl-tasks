@@ -1,0 +1,22 @@
+<html>
+
+<head>
+    <script>
+        asfsdfsdf
+    </script>
+</head>
+
+<body>
+
+    asdfsd
+    fasdjsajgfdgk  fjsdfj 
+    sad <a href="http://vmi.domain.com/vmi.html" /> asdff
+    <p>ajasafdfk sada</p>
+    asd
+    <a href="/view/about.html" target="about:blank">dasdsd</a>
+    
+    <a target="about:blank" href="/view/about2.html">cadad attrib</a>
+
+</body>
+
+</html>
